@@ -4,7 +4,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
 
 
 
-1. Unreal Engine(Game Engine)
+1. Unreal Engine(Game Engine) https://www.unrealengine.com/
     A very popular game engine It has an alternative to coding that is similar to "Scratch" but can also do direct coding. It is pretty good for beginners and has a lot of tutorials, including a discord to help newcomers.
 
    Pros:
@@ -15,7 +15,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
    Cons:
    Performance
    Not very similar to other game engines, leading to experience not carrying over as much.
-3. Autodesk Maya(3d Modeling)
+3. Autodesk Maya(3d Modeling) https://www.autodesk.com/products/maya/overview
     3d Modeling software similar to Blender. It is an industry standard. Good for complex animation and modeling, but not as good for beginners.
 
    Pros:
@@ -25,7 +25,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
    Cons:
      Steep learning curve
      Extremely expensive(255 a month or 2k a year)
-5. RPGMaker(Codeless Game Engine)
+5. RPGMaker(Codeless Game Engine) https://www.rpgmakerweb.com/
    This is a codeless game engine. I've played a few RPGMaker games and it is very good for developers that don't know how to code but could make a game with good writing and art
 
    Pros:
@@ -33,7 +33,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
    
    Cons:
    Limited to being pretty much the same game every time, a default 2d RPG.
-7. Blender(3d modeling)
+7. Blender(3d modeling) https://www.blender.org/
    A good free alternative to Autodesk Maya, a lot of people use it and in my opinion its better than Maya
    
    Pros:
@@ -44,7 +44,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
    Cons:
    Difficult to learn, as it is still 3d modeling
    Large number of features, without tutorials it can be very overwhelming
-9. aseprite(2d Pixel art)
+9. aseprite(2d Pixel art) https://www.aseprite.org/
     Very simple 2d Pixel Art drawing tool, includes animation, a personal favorite art tool of mine.
    
    Pros:
@@ -53,7 +53,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
    
    Cons:
    Can't really do anything else but pixel art
-11. Ren.py(Text based Game Engine)
+11. Ren.py(Text based Game Engine) https://www.renpy.org/
     Perfect for visual novels and text based games
     
     Pros:
@@ -63,7 +63,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
     
     Cons:
     Limited to text based and visual novels, nothing for complex games
-13. Visual Studio Code(Coding)
+13. Visual Studio Code(Coding) https://code.visualstudio.com/download?_exp_download=d53503e735
     Code editor, one of my all time favorite softwares
     
     Pros:
@@ -75,7 +75,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
     Cons:
     Does not create games on its own
     Requires programming knowledge
-15. Twine(Text based Game Engine)
+15. Twine(Text based Game Engine) https://twinery.org/
     Text based, similar to Ren.py, but possible even easier to  use
     
     Pros:
@@ -88,7 +88,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
     Text and storytelling, can't do anything else
     Can't do 3D games
     Advanced features require HTML, CSS, or JavaScript knowledge
-17. Audacity(Sound design)
+17. Audacity(Sound design) https://www.audacityteam.org/
     Popular software for recording and editing audio. Can record audio, cut and combine sounds, adjust volumes throughout the audio file, and add effects. Perfect for sound effects or voicelines in a game
 
     Pros
@@ -100,7 +100,7 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
     Cons:
     Not that advanced compared to other, paid audio softwares.
     
-19. FL Studio(Sound Design)
+19. FL Studio(Sound Design) https://www.image-line.com/fl-studio/download
     A paid alternative to Audacity. Can be used to produce music. Background music, sound effects, and other audios that can be found in games can be made in here.
 
     Pros:
