@@ -113,3 +113,231 @@ This a list of game dev tools, what I think their "genre" or "specialty" is, alo
     You need to learn how to use it to use it at a base level
     More complicated than other softwares like Audacity for base level sound design.
     
+
+
+
+
+Game Development Careers
+
+    Game Events
+        Role: Runs game events like tournaments and competitions so profit can be made and sent back into game development
+
+        Responsibilities:
+            Organize tournaments and competitions
+            Plan game launches and conventions
+            Gaming conferences and community events
+            Manage schedules, venue staff, and participants
+            Promote events
+        Specializations:
+            Esports management
+            event coordination
+            live events
+
+    Game Marketing
+        Role: Promotes games and builds awareness to attract players and increase sales so profits can be made and more games can be made.
+
+        Responsibilities:
+
+            Develop marketing campaigns
+            Research target audiences and gaming trends
+            Manage social media and advertising
+            Create trailers, promotional materials, and announcements
+            Work with influencers, streamers, and gaming communities
+            Track sales and campaign performance
+
+        Specializations: 
+            Digital marketing
+            social media
+            public relations
+            community management
+            advertising
+
+    Game Research
+        Role: Studies players, games, technology, and the gaming industry to help developers make better games.
+
+        Responsibilities:
+
+            Conduct player and user research
+            Study gaming trends and player behavior
+            Test games and collect feedback
+            Analyze competitors and the gaming market
+            Research new technologies and game mechanics
+            Use research results to improve game design
+
+        Specializations:
+            User(player) research
+            market(what games are selling) research
+            game analytics
+            playtesting
+            behavioral research
+            industry research
+    Game Art
+        Role: Creates the visual elements that make up a game's world, characters, objects, and interface, everything visual.
+
+        Responsibilities:
+
+            Design characters and creatures
+            Create environments, buildings, and objects
+            Produce 2D and 3D artwork
+            Create animations and visual effects
+            Design user interfaces and menus
+            Develop visual styles and concepts for games
+
+        Specializations: 
+            Concept art
+            2D art
+            3D modeling
+            character art
+            environment art
+            animation
+            VFX
+            UI/UX art
+            technical art
+
+    Game Programming
+        Role: Uses programming and computer science to make the game's systems, mechanics, and technology function. The game literally does not exist without these guys
+
+        Responsibilities:
+
+            Program gameplay mechanics and controls
+            Develop artificial intelligence for enemies and NPCs
+            Create physics and collision systems
+            Program graphics and visual effects
+            Develop multiplayer and networking systems
+            Build tools and game-engine systems
+            Optimize games for different platforms
+
+        Specializations: 
+            Gameplay programming
+            engine programming
+            graphics programming
+            AI programming
+            physics programming
+            network programming
+            tools programming
+            UI programming
+Game Programming Disciplines
+
+    Engine Programmer
+        Role: Creates the engines that games run on, they deal with rendering graphics, optimizing memory usage, and game engine architecture
+
+        Position titles:
+            Engine Programmer
+            Game Engine Programmer
+            Graphics/Engine Programmer
+            Rendering Engineer
+            Senior Engine Programmer
+        Key responsibilities:
+            Develop and maintain game-engine systems
+            Improve graphics and rendering performance
+            Create physics and memory-management systems
+            Support tools used by other developers(Unity Hub, Unreal Engine on Epic games)
+
+        Skills required:
+            Programming languages
+            Strong mathematics and computer science knowledge
+            Understanding of graphics and rendering
+            Problem-solving and debugging
+            Knowledge of game engines and hardware
+            Performance optimization
+        
+    Network Programmer
+        Role: Creates the framework that games use to communicate their multiplayer features to one another like displaying players on both sides.
+
+        Job position titles:
+            Network Programmer
+            Multiplayer Programmer
+            Network Engineer
+            Online Systems Programmer
+            Backend/Game Services Engineer
+
+        Key responsibilities:
+            Develop multiplayer networking systems
+            Synchronize players and game states, as mentioned above
+            Create systems for matchmaking and online sessions
+            Reduce latency and connection problems
+            Work with game servers
+            Help protect games from cheating and exploits
+
+        Skills required:
+
+            programming languages
+            Understanding of networking concepts
+            Knowledge of client-server architecture
+            Debugging and problem-solving
+            Understanding of latency, bandwidth, and synchronization
+            Experience with online multiplayer systems
+    Level Programming
+        Role: With games that involve levels in the first place, like most singleplayer games, these programmers implement the puzzles, interactions, and enemies into the environment.
+
+        Job position titles:
+            Level Programmer
+            Gameplay Programmer
+            Level Scripter
+            Technical Level Designer
+            Gameplay Scripter
+
+        Key responsibilities:
+            Program level-specific gameplay mechanics
+            Create triggers and interactive objects
+            Implement puzzles and scripted events
+            Set up enemy and NPC behaviors
+            Work with level designers to bring levels they designed to life
+            Debug gameplay problems within levels
+
+        Skills required:
+            C++, C#, or scripting languages
+            Understanding of game engines
+            Gameplay programming
+            Problem-solving and debugging
+            Level-design knowledge(To understand the level designs)
+            Communication and collaboration (For the level designers)
+
+    Porting Programming
+        Role: To port games on one console to another, or from/to PC. Playstation to Xbox, vice versa, and PC to either console and vice versa
+
+        Job position titles:
+            Porting Programmer
+            Porting Engineer
+            Platform Programmer
+            Compatibility Engineer
+            Console Programmer
+
+        Key responsibilities:
+            Adapt games to different hardware and operating systems
+            Modify code for platform-specific requirements
+            Optimize performance for new hardware(Different hardware might mean different drivers and that changes the game a bit)
+            Fix platform-specific bugs
+            Implement platform-specific features(Different buttons)
+            Test games across different devices
+        Skills required:
+            C++ and other programming languages
+            Understanding of different hardware platforms
+            Debugging and troubleshooting
+            Performance optimization
+            Knowledge of console, PC, or mobile development
+            Ability to work with platform-specific SDKs and APIs
+
+    Character Programming
+        Role: Programming characters and NPCs in games to do what they need to interact with the environment in order to have the game function
+
+        Job position titles:
+            Character Programmer
+            Gameplay Programmer
+            Player Systems Programmer
+            AI/Character Programmer
+            Character Systems Engineer
+
+        Key responsibilities:
+            Program player movement and controls
+            Implement character abilities and combat
+            Create character interaction systems
+            Connect animations to character behavior
+            Implement NPC behaviors
+
+        Skills required:
+            C++ or C#
+            Gameplay programming
+            Understanding of animation systems
+            AI and behavior programming
+            Knowledge of game engines such as Unreal Engine or Unity
